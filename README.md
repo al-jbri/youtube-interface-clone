@@ -10,7 +10,7 @@
 
 يمكنك مشاهدة النسخة الحية من المشروع على الرابط التالي:
 
-[**اضغط هنا للمشاهدة**](https://al-jbri.github.io/youtubeUI-clone/)
+[**اضغط هنا للمشاهدة**](https://al-jbri.github.io/YoutubeUI-clone/)
 
 
 ---
