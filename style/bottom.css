@@ -2,7 +2,7 @@
 @keyframes show-animation {
     0% {
         opacity: 0%;
-        transform: translate(0px, 50px);
+        transform: translate(0px, 100px);
     }
     100% {
         opacity: 100%;
@@ -15,7 +15,7 @@
     display: none;
     padding-left: 10px;
     justify-content: center;
-    animation: show-animation 0.5s ease-in-out backwards;
+    animation: show-animation 0.5s ease-in-out;
 
 }
 .bottom-bar a span {
