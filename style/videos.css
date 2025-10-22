@@ -39,11 +39,11 @@
 }
 
 h4 {
-    font-size: clamp(10px,1vw,1vw);
+    font-size: max(13px,0.7vw);
 }
 
 p {
-    font-size: clamp(10px,0.8vw,0.8vw);
+    font-size: max(10px, 0.6vw);
 }
 
 /*--- Video grid flow ---*/
