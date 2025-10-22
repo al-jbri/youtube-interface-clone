@@ -21,6 +21,7 @@
 .bottom-bar a span {
     margin-top: 5px;
     color: white;
+    text-decoration: none;
 }
 
 .bottom-bar a {
