@@ -1,7 +1,7 @@
 /* --- Start animation --- */
 @keyframes slide-animation {
     0% {
-        transform: translate(50px, 0px);
+        transform: translate(150px, 0px);
     }
     100% {
          transform: translate(0px, 0px);
