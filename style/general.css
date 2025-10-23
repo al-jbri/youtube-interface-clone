@@ -49,7 +49,7 @@ body {
 }
 
 /* ======    MOBILE RESPONSIVE  ====== */
-@media (max-width: 800px) {
+@media (max-width: 420px) {
     .right-corner, .user-icons, .filter-bar {
         display: none;
     }
