@@ -27,7 +27,7 @@ You can view the live version of the project at the following link:
 
 * **HTML5:** For building the semantic page structure.
 * **CSS3:** For advanced styling, including:
-    * **CSS Grid** (for the main page layout).
+    * **CSS Grid** (for the main page layout and video cards grid).
     * **Flexbox** (for styling internal elements like the header, side/bottom bar, and centering icons).
     * **Media Queries** (for responsive design).
     * **CSS Animations & Transitions** (for some basic motion effects).
