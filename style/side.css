@@ -13,11 +13,12 @@
 .side-bar {
     display: flex;
     flex-flow: column;
-    padding-right: 10px;
+    padding-right: 6px;
 }
 .side-bar a span {
     margin-top: 5px;
     color: white;
+    font-size: 12px;
 }
 
 .side-bar a {
@@ -26,7 +27,7 @@
     flex-flow: column nowrap;
     align-items: center;
     margin-bottom: 10px;
-    padding: 10px;
+    padding: 3px;
     border-radius: 10px;
     animation: slide-animation 0.5s ease-in-out both;
 }
