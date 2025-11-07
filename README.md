@@ -28,18 +28,18 @@ You can view the live version of the project at the following link:
 * **HTML5:** For building the semantic page structure.
 * **CSS3:** For advanced styling, including:
     * **CSS Grid** (for the main page layout).
-    * **Flexbox** (for styling internal elements like the header and cards).
+    * **Flexbox** (for styling internal elements like the header, side/bottom bar, and centering icons).
     * **Media Queries** (for responsive design).
-    * **CSS Animations & Transitions** (for motion effects).
+    * **CSS Animations & Transitions** (for some basic motion effects).
 
 ---
 
 ## 📂 How to Run This Project Locally
-
-This project consists of static HTML and CSS files and does not require any installation.
-
+This project consists of static HTML and CSS files and does not require any installation
 1.  Clone the repo:
     ```bash
     git clone [https://github.com/al-jbri/youtubeUI-clone](https://github.com/al-jbri/youtubeUI-clone)
     ```
-2.  Open the `index.html` file in your favorite browser.
+2.  Open the `index.html` file in your favorite browser
+
+thanks :)
