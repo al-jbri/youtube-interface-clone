@@ -1,46 +1,45 @@
-### مشروع استنساخ واجهة يوتيوب (YouTubeUI Clone Project)
+### YouTube UI Clone Project
 
-![صورة للمشروع](screenshot.png)
-##### تم انشاء هذا المشروع لهدف التعليم وصقل مهاراتي في لغتي `html`و`css`
-##### عملت على هذا المشروع البسيط في وقت فراغي وهو اول مشروع مكتمل لي في هاتين اللغتين واستغرق العمل عليه حوالي 10 ايام بمدة عمل قصيرة لكل يوم وواجهت بعض الصعوبات اثناء انشائه نظرا لقلة خبرتي في مجال الواجهات الامامية
+![Project Screenshot](screenshot.png)
 
----
-
-## 🚀 المعاينة الحية (Live Demo)
-
-يمكنك مشاهدة النسخة الحية من المشروع على الرابط التالي:
-
-[**اضغط هنا للمشاهدة**](https://al-jbri.github.io/YoutubeUI-clone/)
-
+##### This project was created to learn and hone my skills in HTML and CSS. I worked on it in my spare time as my first complete project in these technologies.
 
 ---
 
-## ✨ الميزات الرئيسية
+## 🚀 Live Demo
 
-* **تصميم متجاوب بالكامل:** تم بناؤه ليعمل على مختلف أحجام الشاشات، من الجوال إلى الكمبيوتر
-* **تخطيط حديث وواضح:** استعملت بشكل اساسي الشبكات (CSS Grid) والصناديق المرنة (Flexbox) لبناء الموقع
-* **أنيميشنز خاصة:** تم اضافة بعض الحركات الجرافيكية البسيطة بهدف صقل مهاراتي في عمل الرسوم المتحركة في css
-* **كود نظيف:** حاولت بقدر استطاعتي المحافظة على امكانية الوصول وتنضيف الكود قدر المستطاع.
+You can view the live version of the project at the following link:
 
----
-
-## 🛠️ التقنيات المستخدمة
-
-* **HTML5:** لبناء هيكل الصفحة الدلالي.
-* **CSS3:** للتنسيقات المتقدمة، بما في ذلك:
-    * **CSS Grid** (لتخطيط الصفحة الرئيسي).
-    * **Flexbox** (لتنسيق العناصر الداخلية مثل الهيدر والكروت).
-    * **Media Queries** (للتصميم المتجاوب).
-    * **CSS Animations & Transitions** (للتأثيرات الحركية).
+[**View Live Demo**](https://al-jbri.github.io/YoutubeUI-clone/)
 
 ---
 
-## 📂 كيفية تشغيل المشروع محلياً
+## ✨ Key Features
 
-المشروع عبارة عن ملفات HTML و CSS ثابتة ولا يحتاج أي تثبيت.
+* **Fully Responsive Design:** Built to work on various screen sizes, from mobile to desktop.
+* **Modern & Clean Layout:** Primarily used CSS Grid and Flexbox to build the site.
+* **Custom Animations:** Added some simple animations to practice and hone my skills in CSS animations.
+* **Clean Code:** I tried my best to maintain accessibility and keep the code as clean as possible.
 
-1.  قم باستنساخ المستودع (Clone the repo):
+---
+
+## 🛠️ Technologies Used
+
+* **HTML5:** For building the semantic page structure.
+* **CSS3:** For advanced styling, including:
+    * **CSS Grid** (for the main page layout).
+    * **Flexbox** (for styling internal elements like the header and cards).
+    * **Media Queries** (for responsive design).
+    * **CSS Animations & Transitions** (for motion effects).
+
+---
+
+## 📂 How to Run This Project Locally
+
+This project consists of static HTML and CSS files and does not require any installation.
+
+1.  Clone the repo:
     ```bash
-    git clone https://github.com/al-jbri/youtubeUI-clone
+    git clone [https://github.com/al-jbri/youtubeUI-clone](https://github.com/al-jbri/youtubeUI-clone)
     ```
-2.  افتح ملف `index.html` في المتصفح المفضل لديك.
+2.  Open the `index.html` file in your favorite browser.

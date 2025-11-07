@@ -14,9 +14,10 @@
     color: white;
     z-index:1;
     border: solid 0px;
-    border-radius: 0px 20px 20px 0px;
+    border-radius: 20px 0px 0px 20px;
     width: 70%;
     height: 40px;
+    padding-left: 20px;
 }
 
 .main-header input:focus {
@@ -28,7 +29,7 @@
     width: 50px;
     height: 43px;
     background-color: #252525;
-    border-radius: 20px 0px 0px 20px;
+    border-radius: 0px 20px 20px 0px;
 }
 
 .search-bar button img {

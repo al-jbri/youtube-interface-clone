@@ -13,7 +13,7 @@
 .side-bar {
     display: flex;
     flex-flow: column;
-    padding-left: 10px;
+    padding-right: 10px;
 }
 .side-bar a span {
     margin-top: 5px;

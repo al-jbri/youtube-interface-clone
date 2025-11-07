@@ -7,6 +7,7 @@
 body {
     display: grid;
     height: 100dvh;
+    font-family: "tajwal";
     grid-template-columns: auto 1fr;
     grid-template-rows: auto 1fr auto;
     grid-template-areas: 
@@ -67,4 +68,13 @@ body {
     .video-grid {
          grid-template-columns: repeat(5, 1fr);
     }
+}
+
+
+/* Some other general rules */
+a {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
 }
