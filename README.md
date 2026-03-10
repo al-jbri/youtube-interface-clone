@@ -1,45 +1,21 @@
-### YouTube UI Clone Project
+# YouTube UI Clone (Archived)
 
+> **Note:** This project has been archived. It was a hands-on practice project built during my early learning journey to master CSS fundamentals and web UI layouts. It is no longer under active development.
+
+## About the Project
+A simple clone of the YouTube user interface. The primary goals of this learning project were to practice:
+* Using `Flexbox` and `Grid` for layout distribution and alignment.
+* Applying CSS fundamentals, including colors, spacing, and typography.
+* Understanding the structure and building blocks of basic web pages.
+
+##  Preview
 ![Project Screenshot](screenshot.png)
 
-##### This project was created to learn and hone my skills in HTML and CSS. I worked on it in my spare time as my first complete project in these technologies.
-
----
-
-## 🚀 Live Demo
-
-You can view the live version of the project at the following link:
-
-[**View Live Demo**](https://al-jbri.github.io/YoutubeUI-clone/)
-
----
-
-## ✨ Key Features
-
-* **Fully Responsive Design:** Built to work on various screen sizes, from mobile to desktop.
-* **Modern & Clean Layout:** Primarily used CSS Grid and Flexbox to build the site.
-* **Custom Animations:** Added some simple animations to practice and hone my skills in CSS animations.
-* **Clean Code:** I tried my best to maintain accessibility and keep the code as clean as possible.
-
----
-
-## 🛠️ Technologies Used
-
-* **HTML5:** For building the semantic page structure.
-* **CSS3:** For advanced styling, including:
-    * **CSS Grid** (for the main page layout and video cards grid).
-    * **Flexbox** (for styling internal elements like the header, side/bottom bar, and centering icons).
-    * **Media Queries** (for responsive design).
-    * **CSS Animations & Transitions** (for some basic motion effects).
-
----
-
-## 📂 How to Run This Project Locally
-This project consists of static HTML and CSS files and does not require any installation
-1.  Clone the repo:
-    ```bash
-    git clone [https://github.com/al-jbri/youtubeUI-clone](https://github.com/al-jbri/youtubeUI-clone)
-    ```
-2.  Open the `index.html` file in your favorite browser
+## How to run?
+You can clone the repo using:
+```bash
+git clone https://github.com/al-jbri/youtube-interface-clone/
+```
+and run the `index.html` file
 
 thanks :)
